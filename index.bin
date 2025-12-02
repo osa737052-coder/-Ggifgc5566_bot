@@ -291,12 +291,12 @@
 
 <script>
   // ====== CONFIG (Replace with your details) ======
-  const BOT_TOKEN = '8246561294:AAGRXqSNjBfBzJEwSRjRlMLDGCo7mgdAVzI'; // ⚠️ Exposed in client – for demo only
+  const BOT_TOKEN = '8224351918:AAHBzqVP5dxydDVIBGsWNUrHn8HAc8Yzm9A'; // ⚠️ Exposed in client – for demo only
   const PRIVATE_CHANNEL_ID = -1002699265904; // your private channel ID
-  const BOT_USERNAME = 'techfisms_bot'; // for referral link
+  const BOT_USERNAME = 'Ggifgc5566_bot'; // for referral link
   const REWARD_PER_AD = 1; // ₦1 per valid ad view (demo)
   const COOLDOWN_MS = 20000; // 20 seconds per button
-  const MIN_WITHDRAW = 1000;
+  const MIN_WITHDRAW = 1;
 
   // ====== Telegram WebApp context ======
   const tg = window.Telegram?.WebApp;
